@@ -5,8 +5,7 @@ Dies ist ein Softwareprojekt, das Python und sqlite3 verwendent. Im Zuge dieses 
 # weitere wichtige Links
 
 https://hellocoding.de/blog/coding-language/allgemein/markdown-guide
-
 <a href="https://wwww.google.com">Google</a>
 
-<a href="[https://wwww.google.com](https://www.youtube.com/watch?v=HjoSNTa8eU8)">v</a>
+<a href="https://www.youtube.com/watch?v=HjoSNTa8eU8">Virtual environment (venv) & GitHub for Python</a>
 
